@@ -1,8 +1,14 @@
+import Header from "./Header";
+import Main from "./Main";
+import Footer from "./Footer";
+import './Minimal.css'
+
 function App() {
   return (
   <>
-     <h1>Hello, World!</h1>
-     <p>Paragraph of text.</p>
+     <Header/>
+     <Main/>
+     <Footer/>
   </>
   );
 }	
