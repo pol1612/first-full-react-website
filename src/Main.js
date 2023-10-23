@@ -5,7 +5,7 @@ function Main (props) {
             <section>
                 <img src={corporateImg} alt="Corporate"/>
                 <p>At {props.companyName} we leverage agile frameworks to provide 
-                a robust synopsis for high-level overviews. 
+                a robust synopsis for high-level overviews . 
                 Iterative approaches to corporate strategy 
                 foster collaborative thinking to further the 
                 overall value proposition.</p>
