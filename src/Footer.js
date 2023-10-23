@@ -1,6 +1,8 @@
-function Footer () {
+function Footer (props) {
     return (
-     <footer><p>ABC Corporation. Digital Consultants</p></footer>  
+     <footer><p>ABC Corporation. 
+        Digital Consultants.
+        Published {props.publishMonth} {props.publishYear}</p></footer>  
     )
  }
      

@@ -7,8 +7,8 @@ function App() {
   return (
   <>
      <Header/>
-     <Main/>
-     <Footer/>
+     <Main companyName="ABC Corporation"/>
+     <Footer publishMonth="October" publishYear="2023"/>
   </>
   );
 }	
